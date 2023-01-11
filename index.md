@@ -21,9 +21,9 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Singapore Road Safety Council
+      subtitle: "About "
+      description: "The Singapore Road Safety Council (SRSC) was set up on 9 December
+        2009 by the Ministry of Home Affairs (MHA) supported by road
+        safety-related stakeholders. "
 ---
