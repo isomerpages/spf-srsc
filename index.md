@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Road Safety Council
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/SRSC 4C Process Logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -27,3 +27,4 @@ sections:
         2009 by the Ministry of Home Affairs (MHA) supported by road
         safety-related stakeholders. "
 ---
+
