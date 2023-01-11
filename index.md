@@ -20,7 +20,7 @@ sections:
         - title: Contact Us
           description: ""
           url: ""
-      background: /images/SRSC Fundraising Gala Dinner 2022.jpg
+      background: /images/rsz_14oct2022_0842.jpg
   - infobar:
       title: Singapore Road Safety Council
       subtitle: "About "
