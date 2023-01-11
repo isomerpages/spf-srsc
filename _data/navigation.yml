@@ -1,8 +1,21 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Home
+    url: /Home/
+  - title: About Us
+    url: /About-us
+    sublinks: []
+  - title: News & Media
+    url: /permalink
+    sublinks: []
+  - title: Advisories
     collection: example-folder
+  - title: Contact Us
+    url: /permalink
+    sublinks: []
+  - title: Volunteer
+    url: /permalink
+    sublinks: []
+  - title: Donate
+    url: /permalink
+    sublinks: []
