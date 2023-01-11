@@ -1,6 +1,6 @@
 title: Singapore Road Safety Council
 url: https://www.srsc.org.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Zebra Family_final_Transparent Background.png
 colors:
   primary-color: "#cb333b"
   secondary-color: "#fe5000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.du295aw3abox.amplifyapp.com
 prod: https://master.du295aw3abox.amplifyapp.com
-shareicon: ""
+shareicon: /images/SRSC 4C Process Logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
