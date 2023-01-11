@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Road Safety Council
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
