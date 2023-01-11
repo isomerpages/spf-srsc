@@ -20,6 +20,7 @@ sections:
         - title: Contact Us
           description: ""
           url: ""
+      background: /images/SRSC Fundraising Gala Dinner 2022.jpg
   - infobar:
       title: Singapore Road Safety Council
       subtitle: "About "
@@ -27,4 +28,3 @@ sections:
         2009 by the Ministry of Home Affairs (MHA) supported by road
         safety-related stakeholders. "
 ---
-
