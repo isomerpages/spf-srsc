@@ -16,14 +16,6 @@ links:
   - title: News & Media
     collection: about-us
   - title: Advisories
-    collection: advisories
-  - title: Contact Us
-    collection: about-us
-  - title: Volunteer
-    collection: about-us
-  - title: Donate
-    collection: about-us
-  - title: Advisories
     url: /advisories/
     sublinks:
       - title: "Pedestrian  "
@@ -36,3 +28,5 @@ links:
         url: /advisories/Motorcyclists-Road-Safety/
       - title: Cyclists
         url: /advisories/Cyclists-Road-Safety/
+  - title: Contact Us
+    collection: about-us
