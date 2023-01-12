@@ -30,5 +30,7 @@ links:
     url: /contact-us/Contact-Us/
     sublinks: []
   - title: News & Media
-    url: /permalink
-    sublinks: []
+    url: /News-&-Media
+    sublinks:
+      - title: Videos
+        url: /Videos
