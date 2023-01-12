@@ -16,7 +16,7 @@ sections:
           url: ""
         - title: Advisories
           description: ""
-          url: ""
+          url: /advisories/advisories/
         - title: Contact Us
           description: ""
           url: ""
