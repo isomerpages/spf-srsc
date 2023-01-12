@@ -30,9 +30,9 @@ links:
     url: /contact-us/Contact-Us/
     sublinks: []
   - title: News & Media
-    url: /News-&-Media/
+    url: /news-and-media/
     sublinks:
       - title: Videos
-        url: /Videos
+        url: /news-and-media/Videos/
       - title: Annual Report
         url: /Annual-Report
