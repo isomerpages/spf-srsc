@@ -1,27 +1,7 @@
 logo: /images/SRSC 4C Process Logo.jpg
 links:
-  - title: About Us
-    url: /Home/
-  - title: News & Media
-    url: /permalink
+  - title: Home
+    url: /home
     sublinks:
-      - title: Annual Report
-        url: /permalink
-      - title: Campaigns & Events
-        url: /permalink
-      - title: Singapore Road Safety Awards
-        url: /permalink
-      - title: Videos
-        url: /permalink
-  - title: Advisories
-    url: /permalink
-    sublinks: []
-  - title: Contact Us
-    url: /permalink
-    sublinks: []
-  - title: Volunteer
-    url: /permalink
-    sublinks: []
-  - title: Donate To Us
-    url: /permalink
-    sublinks: []
+      - title: About SRSC
+        url: /about-srsc
