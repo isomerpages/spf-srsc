@@ -25,4 +25,14 @@ links:
     collection: about-us
   - title: Advisories
     url: /advisories/
-    sublinks: []
+    sublinks:
+      - title: "Pedestrian  "
+        url: /advisories/Pedestrian-Road-Safety/
+      - title: Children & Senior Citizens
+        url: /advisories/Children-and-Senior-Citizens-Road-Safety/
+      - title: Motorists
+        url: /advisories/Motorists-Road-Safety/
+      - title: Motorcyclists
+        url: /advisories/Motorcyclists-Road-Safety/
+      - title: Cyclists
+        url: /advisories/Cyclists-Road-Safety/
