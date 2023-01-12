@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Other Information.md
       - About SRSC.md
       - Vision & Mission.md
       - SRSC Branding.md
