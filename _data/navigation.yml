@@ -24,8 +24,6 @@ links:
         url: /permalink
       - title: Videos
         url: /permalink
-  - title: Advisories
-    collection: example-folder
   - title: Contact Us
     url: /permalink
     sublinks: []
@@ -33,5 +31,8 @@ links:
     url: /permalink
     sublinks: []
   - title: Donate
+    url: /permalink
+    sublinks: []
+  - title: Donate To Us
     url: /permalink
     sublinks: []
