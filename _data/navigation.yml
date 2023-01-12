@@ -15,7 +15,15 @@ links:
         url: /permalink
   - title: News & Media
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Annual Report
+        url: /permalink
+      - title: Campaigns & Events
+        url: /permalink
+      - title: Singapore Road Safety Awards
+        url: /permalink
+      - title: Videos
+        url: /permalink
   - title: Advisories
     collection: example-folder
   - title: Contact Us
