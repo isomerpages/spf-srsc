@@ -24,13 +24,13 @@ links:
         url: /permalink
       - title: Videos
         url: /permalink
+  - title: Advisories
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /permalink
     sublinks: []
   - title: Volunteer
-    url: /permalink
-    sublinks: []
-  - title: Donate
     url: /permalink
     sublinks: []
   - title: Donate To Us
