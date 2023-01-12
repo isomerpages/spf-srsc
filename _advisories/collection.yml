@@ -1,0 +1,4 @@
+collections:
+  advisories:
+    output: true
+    order: []
