@@ -13,8 +13,6 @@ links:
         url: /about-us/other-information/
       - title: Privacy policy
         url: /about-us/privacy-policy/
-  - title: News & Media
-    collection: about-us
   - title: Advisories
     url: /advisories/
     sublinks:
@@ -30,4 +28,7 @@ links:
         url: /advisories/Cyclists-Road-Safety/
   - title: Contact Us
     url: /contact-us/Contact-Us/
+    sublinks: []
+  - title: News & Media
+    url: /permalink
     sublinks: []
