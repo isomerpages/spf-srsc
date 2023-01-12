@@ -14,7 +14,7 @@ links:
       - title: Privacy policy
         url: /about-us/privacy-policy/
   - title: Advisories
-    url: /advisories/
+    url: /advisories/advisories/
     sublinks:
       - title: "Pedestrian  "
         url: /advisories/Pedestrian-Road-Safety/
