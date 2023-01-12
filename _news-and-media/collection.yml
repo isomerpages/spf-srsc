@@ -1,0 +1,4 @@
+collections:
+  news-and-media:
+    output: true
+    order: []
