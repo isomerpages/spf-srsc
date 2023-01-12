@@ -2,5 +2,6 @@ collections:
   advisories:
     output: true
     order:
+      - Cyclists Road Safety.md
       - Children & Senior Citizens Road Safety.md
       - Pedestrian Road Safety.md
