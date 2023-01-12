@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Privacy Policy.md
       - About SRSC.md
       - Vision & Mission.md
       - SRSC Branding.md
       - Other Information.md
+      - Privacy Policy.md
