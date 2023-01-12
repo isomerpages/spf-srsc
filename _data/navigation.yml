@@ -13,3 +13,13 @@ links:
         url: /about-us/other-information/
       - title: Privacy policy
         url: /about-us/privacy-policy/
+  - title: News & Media
+    collection: about-us
+  - title: Advisories
+    collection: about-us
+  - title: Contact Us
+    collection: about-us
+  - title: Volunteer
+    collection: about-us
+  - title: Donate
+    collection: about-us
