@@ -19,7 +19,7 @@ sections:
           url: /advisories/advisories/
         - title: Contact Us
           description: ""
-          url: ""
+          url: /contact-us/Contact-Us/
       background: /images/rsz_14oct2022_0842.jpg
   - infobar:
       title: Singapore Road Safety Council
