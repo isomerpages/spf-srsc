@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: ""
+          url: /about-us/about-srsc/
         - title: News & Media
           description: ""
           url: ""
