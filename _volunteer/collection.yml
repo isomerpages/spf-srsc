@@ -1,4 +1,5 @@
 collections:
   volunteer:
     output: true
-    order: []
+    order:
+      - Volunteer.md
