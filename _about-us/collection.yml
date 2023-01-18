@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Secretariat.md
       - About SRSC.md
       - Council Members.md
       - Vision & Mission.md
