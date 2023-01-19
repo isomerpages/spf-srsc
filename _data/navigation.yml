@@ -9,14 +9,14 @@ links:
         url: /about-us/Vision-And-Mission/
       - title: SRSC Logo
         url: /about-us/SRSC-Logo/
-      - title: Other Information
-        url: /about-us/other-information/
-      - title: Privacy policy
-        url: /about-us/privacy-policy/
       - title: Council Members
         url: /permalink
       - title: Secretariat
         url: /permalink
+      - title: Other Information
+        url: /about-us/other-information/
+      - title: Privacy policy
+        url: /about-us/privacy-policy/
   - title: Advisories
     url: /advisories/advisories/
     sublinks:
