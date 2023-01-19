@@ -30,9 +30,6 @@ links:
         url: /advisories/Motorcyclists-Road-Safety/
       - title: Cyclists
         url: /advisories/Cyclists-Road-Safety/
-  - title: Contact Us
-    url: /contact-us/Contact-Us/
-    sublinks: []
   - title: News & Media
     url: /news-and-media/
     sublinks:
@@ -45,3 +42,6 @@ links:
     sublinks: []
   - title: Donate
     url: https://www.giving.sg/singapore-road-safety-council
+  - title: Contact Us
+    url: /contact-us/Contact-Us/
+    sublinks: []
