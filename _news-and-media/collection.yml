@@ -2,5 +2,5 @@ collections:
   news-and-media:
     output: true
     order:
-      - Annual Report.md
       - Videos.md
+      - Annual Report.md
