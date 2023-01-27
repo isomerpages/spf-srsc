@@ -2,5 +2,6 @@ collections:
   news-and-media:
     output: true
     order:
+      - Campaigns & Events.md
       - Videos.md
       - Annual Report.md
