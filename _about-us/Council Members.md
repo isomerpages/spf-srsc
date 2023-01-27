@@ -3,4 +3,4 @@ title: Council Members
 permalink: /about-us/Council-Members/
 description: ""
 ---
-![](/images/Slide1.jpg)![](/images/Slide4.jpg)
+![](/images/Council%20Members.jpg)
