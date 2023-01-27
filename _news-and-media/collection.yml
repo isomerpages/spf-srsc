@@ -2,7 +2,7 @@ collections:
   news-and-media:
     output: true
     order:
-      - Campaigns & Events/2022.md
-      - Campaigns & Events/.keep
-      - Videos.md
       - Annual Report.md
+      - Campaigns & Events/.keep
+      - Campaigns & Events/2022.md
+      - Videos.md
