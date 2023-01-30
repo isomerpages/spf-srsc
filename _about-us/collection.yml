@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - About SRSC.md
-      - Council Members.md
-      - Secretariat.md
       - Vision & Mission.md
       - SRSC Logo.md
+      - Council Members.md
+      - Secretariat.md
       - Other Information.md
       - Privacy Policy.md
