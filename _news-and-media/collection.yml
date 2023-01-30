@@ -2,13 +2,13 @@ collections:
   news-and-media:
     output: true
     order:
-      - Road Safety Videos/2017.md
-      - Road Safety Videos/2018.md
-      - Road Safety Videos/2019.md
-      - Road Safety Videos/2020.md
-      - Road Safety Videos/2021.md
-      - Road Safety Videos/2022.md
       - Road Safety Videos/.keep
+      - Road Safety Videos/2022.md
+      - Road Safety Videos/2021.md
+      - Road Safety Videos/2020.md
+      - Road Safety Videos/2019.md
+      - Road Safety Videos/2018.md
+      - Road Safety Videos/2017.md
       - Annual Report.md
       - Campaigns & Events/.keep
       - Campaigns & Events/2022.md
