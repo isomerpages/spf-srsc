@@ -41,3 +41,5 @@ description: ""
 									Lian Huat Group Singapore
 								</p>
 							</div>
+							
+![](/images/Slide1.jpg)![](/images/Slide4.jpg)
