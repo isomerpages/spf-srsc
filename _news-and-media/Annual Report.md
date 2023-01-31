@@ -27,4 +27,4 @@ description: ""
 
 [SRSC 2011 Annual Report](https://drive.google.com/file/d/1eLPXFaDw5EWKx9z-zT9509JVMkQol2IB/view?usp=share_link)
 
-![a href="https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=sharing"](/images/2021%20Annual%20Report.png)
+![a href=(https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=sharing)](/images/2021%20Annual%20Report.png)
