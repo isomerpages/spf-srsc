@@ -27,6 +27,6 @@ description: ""
 
 [SRSC 2011 Annual Report](https://drive.google.com/file/d/1eLPXFaDw5EWKx9z-zT9509JVMkQol2IB/view?usp=share_link)
 
-<a href="www.youtube.com">
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+<a href=https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=sharing"">
+<img src="![](/images/2021%20Annual%20Report.png)" alt="HTML tutorial" style="width:42px;height:42px;">
 </a>
