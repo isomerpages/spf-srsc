@@ -48,5 +48,7 @@ links:
   - title: Contact Us
     url: /contact-us/Contact-Us/
   - title: Testing
-    url: /permalink
-    sublinks: []
+    url: /news-&-media/testing/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
