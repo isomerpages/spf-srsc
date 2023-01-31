@@ -3,6 +3,8 @@ title: Annual Report
 permalink: /news-and-media/Annual-Report/
 description: ""
 ---
+[](/files/SRSC%202010%20Annual%20Report.pdf)
+
 [SRSC 2021 Annual Report](https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=share_link)
 
 [SRSC 2020 Annual Report](https://drive.google.com/file/d/1roBlWgsmuQgh0GKkZDY4quHWYxvtE963/view?usp=share_link)
@@ -24,5 +26,6 @@ description: ""
 [SRSC 2012 Annual Report](https://drive.google.com/file/d/1kvVB7dtyAQ8loRzXg21YVFNRcNuIQb5c/view?usp=share_link)
 
 [SRSC 2011 Annual Report](https://drive.google.com/file/d/1eLPXFaDw5EWKx9z-zT9509JVMkQol2IB/view?usp=share_link)
+
 
 ![](/images/20220531_launch_of_singapore_road_safety_month_2022_campaign_1.jpg)[click me](https://www.youtube.com/)
