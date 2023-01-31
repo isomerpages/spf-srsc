@@ -2,7 +2,6 @@ collections:
   news-and-media:
     output: true
     order:
-      - testing.md
       - Road Safety Videos/.keep
       - Road Safety Videos/2022.md
       - Road Safety Videos/2021.md
