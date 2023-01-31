@@ -27,11 +27,4 @@ description: ""
 
 [SRSC 2011 Annual Report](https://drive.google.com/file/d/1eLPXFaDw5EWKx9z-zT9509JVMkQol2IB/view?usp=share_link)
 
-
-![](/images/20220531_launch_of_singapore_road_safety_month_2022_campaign_1.jpg)[click me](https://www.youtube.com/)
-
-
-https://www.dropbox.com/s/nmgj2te571tb2f1/SRSC%202010%20Annual%20Report.pdf?dl=0
-
-
-
+[undefined](https://www.dropbox.com/s/nmgj2te571tb2f1/SRSC%202010%20Annual%20Report.pdf?dl=0)
