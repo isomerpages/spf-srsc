@@ -3,7 +3,7 @@ title: Annual Report
 permalink: /news-and-media/Annual-Report/
 description: ""
 ---
-[](/files/SRSC%202010%20Annual%20Report.pdf)
+<a href="https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=share\_link"><img src="/images/2021%20Annual%20Report.png" title="SRSC 2021 Annual Report" alt="SRSC 2021 Annual Report"></a>
 
 [SRSC 2021 Annual Report](https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=share_link)
 
@@ -35,6 +35,3 @@ description: ""
                         <div class="is-fluid padding--top-md description">
                             <small class="has-text-white is-inline">15 APR 2012</small></div>
                    </div>
-									 
-									 
-	
