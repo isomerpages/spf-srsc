@@ -2,13 +2,11 @@ collections:
   news-and-media:
     output: true
     order:
-      - Awards/.keep
-      - Awards/Singapore Road Safety Awards.md
-      - Awards/2021.md
-      - Awards/2019.md
-      - Awards/2018.md
-      - Awards/2017.md
-      - Awards/2016.md
+      - Annual Report.md
+      - Campaigns & Events/.keep
+      - Campaigns & Events/2022.md
+      - Campaigns & Events/2021.md
+      - Campaigns & Events/2020.md
       - Road Safety Videos/.keep
       - Road Safety Videos/2022.md
       - Road Safety Videos/2021.md
@@ -16,8 +14,10 @@ collections:
       - Road Safety Videos/2019.md
       - Road Safety Videos/2018.md
       - Road Safety Videos/2017.md
-      - Annual Report.md
-      - Campaigns & Events/.keep
-      - Campaigns & Events/2022.md
-      - Campaigns & Events/2021.md
-      - Campaigns & Events/2020.md
+      - Awards/.keep
+      - Awards/Singapore Road Safety Awards.md
+      - Awards/2021.md
+      - Awards/2019.md
+      - Awards/2018.md
+      - Awards/2017.md
+      - Awards/2016.md
