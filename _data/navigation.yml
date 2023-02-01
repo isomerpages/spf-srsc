@@ -47,8 +47,3 @@ links:
     url: https://www.giving.sg/singapore-road-safety-council
   - title: Contact Us
     url: /contact-us/Contact-Us/
-  - title: Testing
-    url: /news-&-media/testing/
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
