@@ -3,7 +3,7 @@ title: Annual Report
 permalink: /news-and-media/Annual-Report/
 description: ""
 ---
-<a href="https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=share\_link"><img src="/images/2021.jpg" title="SRSC 2021 Annual Report" alt="SRSC 2021 Annual Report"></a>
+<a href="https://drive.google.com/file/d/1NsYJxiO2W19-YA0pl6YgiH8C8gVb0khY/view?usp=share\_link"><img src="/images/rsz_2021.jpg" title="SRSC 2021 Annual Report" alt="SRSC 2021 Annual Report"></a>
 
 <a href="https://drive.google.com/file/d/1roBlWgsmuQgh0GKkZDY4quHWYxvtE963/view?usp=share\_link"><img src="/images/2020.jpg" title="SRSC 2020 Annual Report" alt="SRSC 2020 Annual Report"></a>
 
