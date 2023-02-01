@@ -2,6 +2,7 @@ collections:
   news-and-media:
     output: true
     order:
+      - Awards/2016.md
       - Awards/2017.md
       - Awards/2018.md
       - Awards/2019.md
