@@ -2,6 +2,7 @@ collections:
   news-and-media:
     output: true
     order:
+      - Awards/.keep
       - Singapore Road Safety Awards/Singapore Road Safety Awards.md
       - Singapore Road Safety Awards/.keep
       - Road Safety Videos/.keep
