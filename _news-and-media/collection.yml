@@ -2,9 +2,9 @@ collections:
   news-and-media:
     output: true
     order:
-      - Awards/2021.md
-      - Awards/Singapore Road Safety Awards.md
       - Awards/.keep
+      - Awards/Singapore Road Safety Awards.md
+      - Awards/2021.md
       - Road Safety Videos/.keep
       - Road Safety Videos/2022.md
       - Road Safety Videos/2021.md
