@@ -1,5 +1,5 @@
 collections:
-  advisories:
+  road-safety-advisories:
     output: true
     order:
       - Pedestrian Road Safety.md
