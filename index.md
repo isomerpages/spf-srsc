@@ -20,5 +20,5 @@ sections:
           url: /volunteer/Volunteer/
         - title: Road Safety Videos
           description: Watch our videos here!
-          url: https://www.giving.sg/singapore-road-safety-council
+          url: /news-and-media/Road-Safety-Videos/2022/
 ---
