@@ -20,5 +20,5 @@ sections:
           url: https://www.giving.sg/singapore-road-safety-council
         - title: About SRSC
           description: Find out about SRSC today!
-          url: ""
+          url: /about-us/about-srsc/
 ---
