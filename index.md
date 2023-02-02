@@ -15,4 +15,7 @@ sections:
         - title: "'Friends of SRSC' Volunteer"
           description: Join us as a Volunteer today!
           url: /volunteer/Volunteer/
+        - title: Donate to SRSC
+          description: Donate & Make a Difference!
+          url: ""
 ---
