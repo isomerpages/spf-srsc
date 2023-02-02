@@ -18,4 +18,7 @@ sections:
         - title: Donate to SRSC
           description: Donate & Make a Difference!
           url: https://www.giving.sg/singapore-road-safety-council
+        - title: About SRSC
+          description: Find out about SRSC today!
+          url: ""
 ---
