@@ -14,5 +14,5 @@ sections:
           url: /news-and-media/Campaigns-and-Events/2022/
         - title: "'Friends of SRSC' Volunteer"
           description: Join us as a Volunteer today!
-          url: ""
+          url: /volunteer/Volunteer/
 ---
