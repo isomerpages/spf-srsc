@@ -19,4 +19,4 @@ Some of the duties of these volunteers includes:
 *   To help out in SRSC’s physical campaigns e.g. logistics, engagements, recruitments, ushers, distribution of goodie bags / pamphlets etc.
 
 Sign up and be our volunteer 
- [ here!](https://www.giving.sg/volunteer-event?event_activity_id=76567204)
+ [ here!](https://www.giving.sg/volunteer-event?event_activity_id=85090480)
