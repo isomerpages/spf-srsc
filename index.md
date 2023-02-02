@@ -8,4 +8,8 @@ notification: "Welcome to the Singapore Road Safety Council (SRSC) "
 sections:
   - hero:
       background: /images/Campaign & Event Photo.gif
+      key_highlights:
+        - title: SRSC Campaigns & Events
+          description: Road Safety Campaigns & Events
+          url: ""
 ---
