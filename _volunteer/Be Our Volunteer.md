@@ -3,7 +3,6 @@ title: Be Our Volunteer
 permalink: /volunteer/Be-Our-Volunteer/
 description: ""
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PvpSwgHgZnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The ‘Friends of SRSC’ – launched in May 2022 in conjunction with the Singapore Road Safety Month (SRSM) – is a platform set up to recruit like-minded individuals to become SRSC’s eyes and ears, and ambassadors to widen SRSC’s Road Safety outreach efforts.
@@ -19,5 +18,5 @@ Some of the duties of these volunteers includes:
 
 *   To help out in SRSC’s physical campaigns e.g. logistics, engagements, recruitments, ushers, distribution of goodie bags / pamphlets etc.
 
-Interested parties can sign up at
-[ here!](https://www.giving.sg/volunteer-event?event_activity_id=76567204)
+Sign up and be our volunteer 
+ [ here!](https://www.giving.sg/volunteer-event?event_activity_id=76567204)
