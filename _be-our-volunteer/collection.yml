@@ -1,5 +1,5 @@
 collections:
-  volunteer:
+  be-our-volunteer:
     output: true
     order:
       - Be Our Volunteer.md
