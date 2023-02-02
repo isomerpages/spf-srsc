@@ -17,5 +17,5 @@ sections:
           url: /volunteer/Volunteer/
         - title: Donate to SRSC
           description: Donate & Make a Difference!
-          url: ""
+          url: https://www.giving.sg/singapore-road-safety-council
 ---
