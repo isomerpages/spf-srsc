@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/cyclist.jpg)
 
-Cyclists Road Safety
+### Cyclists Road Safety
 ====================
 
 Pedal cyclists, due to their small size, are among the most vulnerable road users. To enhance their safety on the road, cyclists must obey all traffic rules and regulations. Many cyclists’ accidents can also be prevented if they use the proper safety gear.
 
-SAFETY TIPS FOR CYCLISTS
+### SAFETY TIPS FOR CYCLISTS
 ------------------------
 
 *   Protect your head from injury by wearing a safety helmet.
@@ -18,14 +18,14 @@ SAFETY TIPS FOR CYCLISTS
 *   Wear proper shoes, and make sure that the laces are always tied properly.
 *   Do not wear bell bottom and baggy pants, as this could get entangled with the pedals and other moving parts.
 
-TIPS WHEN LEARNING TO RIDE
+### TIPS WHEN LEARNING TO RIDE
 --------------------------
 
 *   Ride a bicycle that fits you properly.
 *   Lean your upper body slightly forward when you are holding the handlebar.
 *   Both feet must be able to touch the ground. For beginners, the whole foot must be able to be planted flat on the ground; the heels should be able to touch the ground.
 
-REMEMBER THESE WHEN USING THE ROAD:
+### REMEMBER THESE WHEN USING THE ROAD:
 -----------------------------------
 
 *   Act as if you’re a pedestrian – look right, left, and then right again. When the road is clear, push your bicycle across for better safety.
@@ -38,7 +38,7 @@ REMEMBER THESE WHEN USING THE ROAD:
 *   DO NOT carry things, walk a dog, hold an umbrella, or otherwise occupy one hand while cycling.
 *   DO NOT risk injuries by doing dangerous stunts.
 
-GUARD AGAINST THESE COMMON MISTAKES:
+### GUARD AGAINST THESE COMMON MISTAKES:
 ------------------------------------
 
 *   Failing to keep to the edge of the road
@@ -49,7 +49,7 @@ GUARD AGAINST THESE COMMON MISTAKES:
 *   Swerving in and out of traffic
 *   Disobeying traffic signals
 
-MAINTENANCE CHECK FOR BICYCLES:
+### MAINTENANCE CHECK FOR BICYCLES:
 -------------------------------
 
 Always check for mechanical faults
