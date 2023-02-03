@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/pedestrian1.jpg)
 
-Pedestrian Road Safety
+### Pedestrian Road Safety
 ======================
 
 As a road user group, pedestrians formed the second largest group of road traffic fatalities, behind motorcyclists and pillion riders. In most cases, the pedestrians were either crossing heedless of traffic or had failed to use available pedestrian crossing.
@@ -21,7 +21,7 @@ Following these tips will enhance pedestrian safety:
 *   **WALK IN A SINGLE FILE** if you are walking in a group, always facing oncoming traffic.
 *   **BE SEEN, BE SAFE.** Use light coloured clothing when you are walking at night, or carry some reflective materials so that drivers can see you from a distance.
 
-Pedestrian and Vehicle Collision
+### Pedestrian and Vehicle Collision
 --------------------------------
 
 When a pedestrian is knocked down by an oncoming vehicle, the force from the initial impact causes the primary injury, often on the lower limbs. At over 50km/h, the speed of the vehicle could cause the victim to be thrown over the bonnet and into the windscreen – this leads to secondary injuries. Tertiary injuries follow when the victim is thrown over the roof of the vehicle and lands at the back. Another vehicle could hit the victim at this point, causing quaternary injuries. In some cases, when the vehicle suddenly brakes, the victim could be thrown outward and the vehicle may come to a stop over the victim. In a great many of these cases, THE VICTIM WAS NOT USING THE PEDESTRIAN CROSSING AT THE TIME OF THE ACCIDENT.
