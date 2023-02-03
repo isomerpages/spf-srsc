@@ -6,7 +6,7 @@ description: ""
 ![](/images/cyclist.jpg)
 
 ### Cyclists Road Safety
-====================
+------------------------------------------
 
 Pedal cyclists, due to their small size, are among the most vulnerable road users. To enhance their safety on the road, cyclists must obey all traffic rules and regulations. Many cyclists’ accidents can also be prevented if they use the proper safety gear.
 
