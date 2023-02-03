@@ -3,21 +3,21 @@ title: Privacy Policy
 permalink: /about-us/privacy-policy/
 description: SINGAPORE ROAD SAFETY COUNCIL PRIVACY POLICY
 ---
-SINGAPORE ROAD SAFETY COUNCIL PRIVACY POLICY
+### **SINGAPORE ROAD SAFETY COUNCIL PRIVACY POLICY**
 
-GENERAL
+#### GENERAL
 -------
 
 1.  We, Singapore Road Safety Council (“SRSC”), are committed to safeguarding your privacy. We treat all personal data provided by you in strict confidence, and will only use your personal data in the manner set out in this Policy. This Policy applies to all personal data that you provide to us and the personal data we hold about you. This Policy describes how we may collect, use, disclose, process and manage your personal data.
 2.  By providing us with your personal data, you consent to our collection, use and disclosure (including transfer) of your personal data in accordance with this Policy. Please DO NOT provide any personal data to us if you do not accept this Policy.
 3.  Information provided by organisations to us for business purposes is not considered as personal data. This Policy does not apply to business contact information.
 
-AMENDMENT TO THIS POLICY
+#### AMENDMENT TO THIS POLICY
 ------------------------
 
 4.  We may amend this Policy from time to time. The updated Policy will supersede earlier versions and will apply to personal data provided to us previously. The updated Policy will be made available upon request from us and on our website at http://srsc.org.sg. If you do not accept any amendment to the Policy, please contact our Data Protection Officer (see paragraph 26 below).
 
-PERSONAL DATA
+#### PERSONAL DATA
 -------------
 
 5.  **What is personal data?** “Personal data” is data that can be used to identify a natural person. Examples of personal data include your name, mailing address, NRIC, passport or other identification number, telephone number(s), email address, photograph, video image, personal data of family members, education background, employment history, references and any other information relating to any individuals which you have provided us in any form(s) you may have submitted to us, or via other forms of interaction with you.
@@ -25,13 +25,13 @@ PERSONAL DATA
 7.  **Providing personal data belonging to others.** If you provide the personal data of anyone other than yourself, you warrant that you have informed him/her of the purposes for which we are collecting his/her personal data and that he/she has consented to your disclosure of his/her personal data to us for those purposes.
 8.  **Accuracy and completeness of personal data.** You must ensure that all personal data that you provide is true, accurate and complete.
 
-WEBSITE
+#### WEBSITE
 -------
 
 9.  **Web browsing.** Various technologies may be used on our website at http://srsc.org.sg in order to make them more user-friendly, effective and secure. Such technologies may lead to data being collected automatically by us or by third parties on our behalf. This data does not generally, but may, contain a user’s personal data.
 10.  **Links to other websites.** Our websites may contain links to other websites which are not owned or maintained by us. These links are provided only for your convenience. This Policy only applies to our website. When visiting these third party websites, you should read their privacy policies.
 
-COLLECTION OF PERSONAL DATA
+#### COLLECTION OF PERSONAL DATA
 ---------------------------
 
 11.  Generally, we may collect your personal data when:
@@ -53,7 +53,7 @@ COLLECTION OF PERSONAL DATA
 *   you request that we contact you or request that you be included in an email or other mailing list; and/or
 *   you submit your personal data to us for any other reason.
 
-PURPOSES FOR COLLECTION, USE OR DISCLOSURE OF YOUR PERSONAL DATA
+#### PURPOSES FOR COLLECTION, USE OR DISCLOSURE OF YOUR PERSONAL DATA
 ----------------------------------------------------------------
 
 12.  **General purposes.** Generally, we collect, use or disclose your personal data for the following purposes:
@@ -89,7 +89,7 @@ PURPOSES FOR COLLECTION, USE OR DISCLOSURE OF YOUR PERSONAL DATA
 
 15.  **Contacting you.** When using your personal data to contact you for the above purposes, we may contact you via regular mail, fax, e-mail, SMS, telephone or any other means.
 
-DISCLOSURE OF INFORMATION
+#### DISCLOSURE OF INFORMATION
 -------------------------
 
 16.  We will not sell your personal data to third parties.
@@ -102,18 +102,18 @@ DISCLOSURE OF INFORMATION
 
 20.  **Other permitted disclosure.** We may also disclose your personal data as required or permitted by law. We may disclose your personal data to regulatory authorities, statutory bodies or public agencies for the purposes of complying with their respective requirements, policies and directives.
 
-PROTECTION OF PERSONAL DATA
+#### PROTECTION OF PERSONAL DATA
 ---------------------------
 
 21.  We will take reasonable precautions to safeguard your personal data.
 22.  While reasonable precautions will be taken to ensure that the information you provide is protected against unauthorised or unintended access, we cannot be held responsible for unauthorised or unintended access that is beyond our control.
 
-RETENTION OF PERSONAL DATA
+#### RETENTION OF PERSONAL DATA
 --------------------------
 
 23.  We will keep your personal data only for so long as we need the personal data for our business and legal purposes.
 
-YOUR RIGHTS
+### YOUR RIGHTS 
 -----------
 
 24.  Contact Data Protection Officer. If you wish to withdraw any consent you have given us at any time, or if you wish to correct or have access to your personal data held by us, or if you do not accept any amendment to this Policy, please contact our Data Protection Officer:
@@ -124,7 +124,7 @@ Name : **Poh Lay Hua** Telephone : **6547 6597** Email : **pohlayhua@srsc.org.sg
 
 26.  **Effect of withdrawal of consent.** In many circumstances, we need to use your personal data in order for us to provide you with products or services which you require. If you do not provide us with the required personal data, or if you withdraw your consent to our use and/or disclosure of your personal data for these purposes, it may not be possible for us to continue to serve you or provide you with the products and services that you require.
 
-GOVERNING LAW
+#### GOVERNING LAW
 -------------
 
 27.  This Policy is governed by the laws of the Republic of Singapore. You agree to submit to the exclusive jurisdiction of the Courts of Singapore in any dispute relating to this Policy.
