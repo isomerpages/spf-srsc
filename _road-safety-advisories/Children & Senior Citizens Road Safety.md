@@ -6,7 +6,7 @@ description: ""
 ![](/images/children.jpg)
 
 ### Children & Senior Citizens Road Safety
-======================================
+------------------------------------------
 
 Children and the elderly are among the most vulnerable groups among road users, with elderly people counting for almost half of all pedestrian deaths. Road safety for children is a major social concern. Just remember though that safety is not an accident – it’s a choice each of us can make. Follow traffic rules and remember these road safety tips for children and the elderly:
 
