@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/motorist.jpg)
 
-Motorists Road Safety
+### Motorists Road Safety
 =====================
 
 All road users have a responsibility to keep our roads safe, whether as a car driver, a driver of trucks, lorry or heavy vehicles, a motorcyclist, trishaw rider, cyclist, or pedestrian. Every road user must exercise patience and must always stay alert and careful on the road. Road users must always follow traffic rules, signs, and signals and they must be considerate to other road users. Following simple safety reminders will greatly enhance road safety for motorists.
 
-DEFENSIVE DRIVING SKILLS
+### DEFENSIVE DRIVING SKILLS
 ------------------------
 
 It’s always to all road users’ advantage for drivers to adopt a defensive driving attitude. Defensive driving requires drivers to:
@@ -21,7 +21,7 @@ It’s always to all road users’ advantage for drivers to adopt a defensive dr
 *   Be on the lookout for traffic signs and pedestrian actions that may cause traffic hazards
 *   Minimize the chances of an accident from mechanical failure by the habit of proper vehicle control and maintenance
 
-ADAPT TO ROAD CONDITIONS
+### ADAPT TO ROAD CONDITIONS
 ------------------------
 
 Motorists must be able to quickly adapt to road conditions while maintaining proper control of their vehicle. Motorists need to be alert at all times and anticipate road hazards. They must be able to respond safely to the following hazardous or difficult road conditions:
@@ -43,7 +43,7 @@ Drivers must take extra caution and care when:
 *   Approaching a pedestrian crossing
 *   Passing vehicles parked along roadsides
 
-SAFE DRIVING TIPS
+### SAFE DRIVING TIPS
 -----------------
 
 *   Get familiar with the controls and manoeuvrability of your vehicle.
