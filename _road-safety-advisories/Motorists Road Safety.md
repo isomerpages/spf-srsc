@@ -6,7 +6,7 @@ description: ""
 ![](/images/motorist.jpg)
 
 ### Motorists Road Safety
-=====================
+------------------------------------------
 
 All road users have a responsibility to keep our roads safe, whether as a car driver, a driver of trucks, lorry or heavy vehicles, a motorcyclist, trishaw rider, cyclist, or pedestrian. Every road user must exercise patience and must always stay alert and careful on the road. Road users must always follow traffic rules, signs, and signals and they must be considerate to other road users. Following simple safety reminders will greatly enhance road safety for motorists.
 
