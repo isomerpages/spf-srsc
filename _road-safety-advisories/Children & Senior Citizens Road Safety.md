@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/children.jpg)
 
-Children & Senior Citizens Road Safety
+### Children & Senior Citizens Road Safety
 ======================================
 
 Children and the elderly are among the most vulnerable groups among road users, with elderly people counting for almost half of all pedestrian deaths. Road safety for children is a major social concern. Just remember though that safety is not an accident – it’s a choice each of us can make. Follow traffic rules and remember these road safety tips for children and the elderly:
 
-RULES TO ENHANCE ROAD SAFETY FOR CHILDREN:
+### RULES TO ENHANCE ROAD SAFETY FOR CHILDREN:
 ------------------------------------------
 
 **Always Do’s:**
@@ -30,7 +30,7 @@ RULES TO ENHANCE ROAD SAFETY FOR CHILDREN:
 *   Never play nor stand in the bus bay.
 *   Never play in a moving vehicle.
 
-TIPS FOR PARENTS:
+### TIPS FOR PARENTS:
 -----------------
 
 *   Be patient when driving your child to school, these are peak traffic hours.
@@ -39,7 +39,7 @@ TIPS FOR PARENTS:
 *   Teach your children about road safety rules. Set a good example.
 *   Help your child to cross the road safely.
 
-ROAD SAFETY TIPS FOR THE ELDERLY
+### ROAD SAFETY TIPS FOR THE ELDERLY
 --------------------------------
 
 Accidents involving the elderly frequently happen because of their diminished sensory and motor skills. But this doesn’t mean that senior citizens cannot enjoy the use of our roads. Help the elderly to enhance their safety by getting them to follow these road safety tips:
