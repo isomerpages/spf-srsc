@@ -5,14 +5,14 @@ description: ""
 ---
 ![](/images/motorcyclist1.jpg)
 
-Motorcyclists Road Safety
+### Motorcyclists Road Safety
 =========================
 
 There is great concern for the safety of motorcyclists in our roads. Among all users, motorcycle and pillion riders comprise the largest group that is involved in fatal road accidents. Road safety for motorcyclists is a paramount concern, as motorcycle riding requires balancing skills and greater control as compared to car driving. A motorcycle is also less visible and can be easily missed on the road. Furthermore, the body of the motorcycle offers very little protection to the motorcyclist.
 
 Here are important reminders to reduce the risks in motorcycling:
 
-DEFENSIVE RIDING
+### DEFENSIVE RIDING
 ----------------
 
 Year after year, statistics show that motorcycles remain the most vulnerable group among all road users. To enhance safety, motorcycles and all motorists should follow these basic traffic rules and regulations:
@@ -29,7 +29,7 @@ Year after year, statistics show that motorcycles remain the most vulnerable gro
 *   Practice the 2-Second Rule: allow for two seconds between braking and making a full stop behind a vehicle
 *   Get out of a car’s blind spot
 
-ROAD SAFETY TIPS FOR MOTORCYCLISTS
+### ROAD SAFETY TIPS FOR MOTORCYCLISTS
 ----------------------------------
 
 To avoid an accident, start with the right gear – properly secured helmet, tight fitting gloves, jacket, and closed footwear. Check that your tyres are not bald and that they are properly inflated. Turn on your headlight at all times and maintain the right posture for better visibility on the road.
@@ -44,7 +44,7 @@ To avoid an accident, start with the right gear – properly secured helmet, tig
 *   Be visible, ride with your lights on
 *   Always obey traffic lights
 
-CHARACTERISTICS OF A GOOD RIDER
+### CHARACTERISTICS OF A GOOD RIDER
 -------------------------------
 
 *   Keeps vehicle in roadworthy condition
