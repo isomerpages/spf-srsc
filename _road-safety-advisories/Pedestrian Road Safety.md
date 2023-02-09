@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/pedestrian1.jpg)
 
-### Pedestrian Road Safety
+### Pedestrians Road Safety
 ------------------------------------------
 
 As a road user group, pedestrians formed the second largest group of road traffic fatalities, behind motorcyclists and pillion riders. In most cases, the pedestrians were either crossing heedless of traffic or had failed to use available pedestrian crossing.
