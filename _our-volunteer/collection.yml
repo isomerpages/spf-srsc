@@ -2,4 +2,4 @@ collections:
   our-volunteer:
     output: true
     order:
-      - Be Our Volunteer.md
+      - Our Volunteers.md
