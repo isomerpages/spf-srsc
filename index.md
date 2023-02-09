@@ -13,7 +13,7 @@ sections:
           description: Find out about SRSC today!
           url: /about-us/about-srsc/
         - title: SRSC Campaigns & Events
-          description: Campaigns SRSC Organised!
+          description: Campaigns SRSC organised!
           url: /news-and-media/Campaigns-and-Events/2022/
         - title: Road Safety Videos
           description: Watch our videos here!
