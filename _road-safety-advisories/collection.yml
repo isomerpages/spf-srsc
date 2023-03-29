@@ -1,0 +1,9 @@
+collections:
+  road-safety-advisories:
+    output: true
+    order:
+      - Pedestrians Road Safety.md
+      - Children & Senior Citizens Road Safety.md
+      - Motorists Road Safety.md
+      - Motorcyclists Road Safety.md
+      - Cyclists Road Safety.md

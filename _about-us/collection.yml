@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About SRSC.md
+      - Vision & Mission.md
+      - SRSC Logo.md
+      - Council Members.md
+      - Secretariat.md
+      - Other Information.md
+      - Privacy Policy.md

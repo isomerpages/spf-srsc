@@ -1,15 +1,49 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SRSC 4C Process Logo.jpg
 links:
+  - title: About Us
+    url: /about-us/about-srsc/
+    sublinks:
+      - title: About SRSC
+        url: /about-us/about-srsc/
+      - title: Vision And Mission
+        url: /about-us/Vision-And-Mission/
+      - title: SRSC Logo
+        url: /about-us/SRSC-Logo/
+      - title: Council Members
+        url: /about-us/Council-Members/
+      - title: Secretariat
+        url: /about-us/Secretariat/
+      - title: Other Information
+        url: /about-us/other-information/
+      - title: Privacy Policy
+        url: /about-us/privacy-policy/
+  - title: Road Safety Advisories
+    url: /advisories/Pedestrian-Road-Safety/
+    sublinks:
+      - title: "Pedestrians  "
+        url: /advisories/Pedestrians-Road-Safety/
+      - title: Children & Senior Citizens
+        url: /advisories/Children-and-Senior-Citizens-Road-Safety/
+      - title: Motorists
+        url: /advisories/Motorists-Road-Safety/
+      - title: Motorcyclists
+        url: /advisories/Motorcyclists-Road-Safety/
+      - title: Cyclists
+        url: /advisories/Cyclists-Road-Safety/
+  - title: News & Media
+    url: /news-and-media/Annual-Reports/
+    sublinks:
+      - title: Annual Reports
+        url: /news-and-media/Annual-Reports/
+      - title: "Campaigns & Events "
+        url: /news-and-media/Campaigns-and-Events/2022/
+      - title: Road Safety Videos
+        url: /news-and-media/Road-Safety-Videos/2022/
+      - title: Awards
+        url: /news-and-media/Awards/Singapore-Road-Safety-Awards/
+  - title: Our Volunteers
+    url: /volunteer/Our-Volunteers/
+  - title: Donate To Us
+    url: https://www.giving.sg/singapore-road-safety-council
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact-us/Contact-Us/

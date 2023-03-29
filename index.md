@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Road Safety Council
+description: An Isomer site of the Singapore Government
+image: /images/SRSC 4C Process Logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Welcome to the Singapore Road Safety Council (SRSC) "
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Campaign & Event Photo.gif
+      key_highlights:
+        - title: About SRSC
+          description: Find out about SRSC today!
+          url: /about-us/about-srsc/
+        - title: SRSC Campaigns & Events
+          description: Campaigns SRSC organised!
+          url: /news-and-media/Campaigns-and-Events/2022/
+        - title: Road Safety Videos
+          description: Watch our videos here!
+          url: /news-and-media/Road-Safety-Videos/2022/
+        - title: "'Friends of SRSC' Volunteer"
+          description: Join us as a Volunteer today!
+          url: /volunteer/Be-Our-Volunteer/
 ---
-
