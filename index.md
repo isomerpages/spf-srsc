@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Road Safety Council
-description: An Isomer site of the Singapore Government
+description: Singapore Road Safety Council
 image: /images/SRSC 4C Process Logo.jpg
 permalink: /
 notification: "Welcome to the Singapore Road Safety Council (SRSC) "
