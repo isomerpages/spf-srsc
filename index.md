@@ -7,7 +7,7 @@ permalink: /
 notification: "Welcome to the Singapore Road Safety Council (SRSC) "
 sections:
   - hero:
-      background: /images/Campaign & Event Photo.gif
+      background: /images/cover page gif.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
