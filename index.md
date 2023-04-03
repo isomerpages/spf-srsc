@@ -4,10 +4,10 @@ title: Singapore Road Safety Council
 description: Singapore Road Safety Council
 image: /images/SRSC 4C Process Logo.jpg
 permalink: /
-notification: "Welcome to the Singapore Road Safety Council (SRSC) "
+notification: ""
 sections:
   - hero:
-      background: /images/cover page gif.gif
+      background: /images/cover page hi res.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
