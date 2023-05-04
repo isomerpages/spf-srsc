@@ -3,4 +3,4 @@ title: Secretariat
 permalink: /about-us/Secretariat/
 description: ""
 ---
-![](/images/SRSC%20Secretariat_1.jpg)
+![](/images/srsc%20secretariat_2.jpg)
