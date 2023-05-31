@@ -10,5 +10,3 @@ description: ""
 
 
 <a href="https://drive.google.com/file/d/1eide1EiSAT2_PwMTyDrfe5nJ0_PVtkdJ/view?usp=share_link"><img src="/images/2019.jpg" title="SRSC 2019 Annual Report" alt="SRSC 2019 Annual Report"></a>
-
-
