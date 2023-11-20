@@ -1,6 +1,6 @@
 ---
 title: Road Safety Storybook
 permalink: /news-and-media/road-safety-storybook/
-variant: tiptap
+variant: markdown
 description: ""
 ---
