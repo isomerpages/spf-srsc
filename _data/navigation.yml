@@ -20,7 +20,7 @@ links:
   - title: Road Safety Advisories
     url: /advisories/Pedestrians-Road-Safety/
     sublinks:
-      - title: "Pedestrians  "
+      - title: Pedestrians
         url: /advisories/Pedestrians-Road-Safety/
       - title: Children & Senior Citizens
         url: /advisories/Children-and-Senior-Citizens-Road-Safety/
@@ -33,9 +33,11 @@ links:
   - title: News & Media
     url: /news-and-media/Annual-Reports/
     sublinks:
+      - title: Road Safety Storybook
+        url: /news-and-media/road-safety-storybook/
       - title: Annual Reports
         url: /news-and-media/Annual-Reports/
-      - title: "Campaigns & Events "
+      - title: Campaigns & Events
         url: /news-and-media/Campaigns-and-Events/2022/
       - title: Road Safety Videos
         url: /news-and-media/Road-Safety-Videos/2022/
