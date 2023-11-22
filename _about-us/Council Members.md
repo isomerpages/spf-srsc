@@ -2,5 +2,7 @@
 title: Council Members
 permalink: /about-us/Council-Members/
 description: ""
+variant: markdown
 ---
-![](/images/srsc%20org%20chart%20v4_1.JPG)![](/images/srsc%20org%20chart%20v4_2.JPG)
+![](/images/srsc_org_chart_v5_1.JPG)
+![](/images/srsc_org_chart_v5_2.JPG)
