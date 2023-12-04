@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_com_resize_1_.gif
+      background: /images/Campaign & Event Photo.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
