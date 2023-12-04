@@ -7,14 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Campaign & Event Photo.gif
+      background: /images/cover page hi res.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
           url: /about-us/about-srsc/
         - title: SRSC Campaigns & Events
           description: Campaigns SRSC organised!
-          url: /news-and-media/Campaigns-and-Events/2023/
+          url: /news-and-media/campaigns-and-events/2023/
         - title: Road Safety Videos
           description: Watch our videos here!
           url: /news-and-media/Road-Safety-Videos/2022/
