@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/cover page hi res.gif
+      background: /images/ezgif_com_gif_maker.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
@@ -21,4 +21,5 @@ sections:
         - title: "'Friends of SRSC' Volunteer"
           description: Join us as a Volunteer today!
           url: /volunteer/Our-Volunteers/
+      variant: image
 ---
