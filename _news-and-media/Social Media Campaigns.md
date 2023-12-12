@@ -4,4 +4,4 @@ permalink: /news-and-media/social-media-campaigns/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3>Collaboration with Nanyang Polytechnic (NYP)</h3><p></p><p></p>
