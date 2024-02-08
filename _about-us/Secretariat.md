@@ -2,5 +2,6 @@
 title: Secretariat
 permalink: /about-us/Secretariat/
 description: ""
+variant: markdown
 ---
-![](/images/srsc%20secretariat_4.jpg)
+![](/images/SRSC_Secretariat_5.jpg)
