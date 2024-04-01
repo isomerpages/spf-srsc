@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Awards
 variant: markdown
 ---
+
 # **INTRODUCTION**
 
 1\.   The Singapore Road Safety Council (SRSC) is an organisation set up to promote road safety awareness in Singapore.  SRSC drives various road safety campaigns and events like the annual Singapore Road Safety Month, Elderly Road Safety Campaign, Singapore Ride Safe and Anti-Drink Drive Campaign etc. to target different road users.   Together with key partners like Traffic Police (TP), Land Transport Authority (LTA) and Workplace Safety & Health Institute (WSHI), SRSC is here to constantly remind road users to always be safe on the road.
@@ -106,5 +107,3 @@ CONTACT
 19\.    We look forward to your participation in promoting road safety in Singapore.
 
 
-
-• Commendations received (if any)
