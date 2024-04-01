@@ -101,7 +101,7 @@ GENERAL REQUIREMENTS FOR SAFE DRIVER CATEGORY
 
 CONTACT
 
-18\.   For more information on the award details, please contact Ms Irene Goh (DID) [6547 6596](tel:65476596), (Cellphone) 8822 9398 or Email: [SRSA@srsc.org.sg](mailto:SRSA@srsc.org.sg).
+18\.   For more information on the award details, please contact Ms Irene Goh (DID) [6547 6596](tel:65476596), (Cellphone) [8822 9398](tel:8822 9398) or Email: [SRSA@srsc.org.sg](mailto:SRSA@srsc.org.sg).
 
 19\.    We look forward to your participation in promoting road safety in Singapore.
 
