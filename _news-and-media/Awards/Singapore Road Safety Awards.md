@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Awards
 variant: markdown
 ---
-
 # **INTRODUCTION**
 
 1\.   The Singapore Road Safety Council (SRSC) is an organisation set up to promote road safety awareness in Singapore.  SRSC drives various road safety campaigns and events like the annual Singapore Road Safety Month, Elderly Road Safety Campaign, Singapore Ride Safe and Anti-Drink Drive Campaign etc. to target different road users.   Together with key partners like Traffic Police (TP), Land Transport Authority (LTA) and Workplace Safety & Health Institute (WSHI), SRSC is here to constantly remind road users to always be safe on the road.
@@ -50,7 +49,7 @@ c.     Non-Public Bus Fleet of 12-seaters and above;
 
 d.     Motorcycle Fleet;
 
-(II)  For Point-to-point transport services (Taxi companies, Grab, Gojek, Tada Mobility) may nominate up to 3 taxi drivers or drivers using their application platform. The drivers should be active and been in P2P transport service for 2 years or more.  Companies should nominate drivers who are on the road for at least an average of 24 hours a week.
+(II)  For Point-to-point transport services (Taxi companies, Grab, Gojek, Tada Mobility) may nominate up to 3 taxi drivers or drivers using their application platform. The drivers should be active and been in P2P transport service for 2 years or more. Companies should nominate drivers who are on the road for at least an average of 20 hours a week.  Nominated drivers should have no accident and violation record in the assessment period.
 
             (III) Public Bus Companies may nominate up to 5 bus captains for the awards.
 
@@ -105,5 +104,3 @@ CONTACT
 18\.   For more information on the award details, please contact Ms Irene Goh (DID): 6547 6596, (Cellphone): 8822 9398 or Email: [SRSA@srsc.org.sg](mailto:SRSA@srsc.org.sg).
 
 19\.    We look forward to your participation in promoting road safety in Singapore.
-
-
