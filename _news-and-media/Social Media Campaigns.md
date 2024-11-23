@@ -21,7 +21,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spot_the_good_and_bad_road_safety_habits.jpg">
 </div>
 <p></p>
-<p>Change my mind? Make the right move.</p>
+<h4>Change my mind? Make the right move.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Change_my_mind__Make_the_right_move_4.jpg">
 </div>
