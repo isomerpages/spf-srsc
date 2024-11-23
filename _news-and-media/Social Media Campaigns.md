@@ -87,4 +87,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plan_your_route.jpg">
 </div>
+<h4>Be patient.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_patient.jpg">
+</div>
 <p></p>
