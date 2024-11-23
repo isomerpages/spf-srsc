@@ -79,4 +79,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Watch_out_for_others.jpg">
 </div>
+<h4>Did you know that the number of red-light running accidents in 2023 had decreased by 18.2% as compared to 2022.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Didyouknow_that_the_number_of_red_light_running_accidents_in_2023_had_decreased_by_18_2__as_compared_to_2022.jpg">
+</div>
 <p></p>
