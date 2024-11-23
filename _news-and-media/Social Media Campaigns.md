@@ -83,4 +83,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Didyouknow_that_the_number_of_red_light_running_accidents_in_2023_had_decreased_by_18_2__as_compared_to_2022.jpg">
 </div>
+<h4>Plan your route.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plan_your_route.jpg">
+</div>
 <p></p>
