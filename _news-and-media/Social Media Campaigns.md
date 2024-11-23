@@ -107,4 +107,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_kind_to_others.jpg">
 </div>
+<h4>Being gracious is a great virtue.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Being_gracious_is_a_great_virtue.jpg">
+</div>
 <p></p>
