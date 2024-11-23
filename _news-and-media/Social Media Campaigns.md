@@ -119,4 +119,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Don_t_treat_your_life_as_a_game.jpg">
 </div>
+<h4>Never exchange safety for convenience.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Never_exchange_safety_for_convenience.jpg">
+</div>
 <p></p>
