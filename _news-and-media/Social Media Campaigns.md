@@ -123,4 +123,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Never_exchange_safety_for_convenience.jpg">
 </div>
+<h4>Protect your child and loved ones.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Protect_your_child_and_loved_ones.jpg">
+</div>
 <p></p>
