@@ -37,4 +37,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Change_my_mind__Make_the_right_move_1.jpg">
 </div>
+<h4>What you think may not always be right – Make the right move.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_you_think_may_not_always_be_right___Make_the_right_move_4.jpg">
+</div>
 <p></p>
