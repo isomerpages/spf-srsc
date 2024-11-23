@@ -70,4 +70,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Let_s_help_each_other_get_home_safe_by_practicing_good_road_safety_habits_and_watching_out_for_one_another_on_the_roads.jpg">
 </div>
-<p>Keep a clear mind and stay alert.</p>
+<p></p>
+<h4>Keep a clear mind and stay alert.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep_a_clear_mind___stay_alert.jpg">
+</div>
+<p></p>
