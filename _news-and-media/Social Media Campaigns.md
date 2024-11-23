@@ -50,3 +50,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_you_think_may_not_always_be_right___Make_the_right_move_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_you_think_may_not_always_be_right___Make_the_right_move_1.jpg">
+</div>
+<p></p>
