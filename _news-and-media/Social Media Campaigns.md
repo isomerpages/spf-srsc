@@ -26,3 +26,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Change_my_mind__Make_the_right_move_4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Change_my_mind__Make_the_right_move_3.jpg">
+</div>
+<p></p>
