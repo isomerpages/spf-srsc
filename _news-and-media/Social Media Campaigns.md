@@ -111,4 +111,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Being_gracious_is_a_great_virtue.jpg">
 </div>
+<h4>Reach your destination safely!</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reach_your_destination_safely.jpg">
+</div>
 <p></p>
