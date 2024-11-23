@@ -103,4 +103,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Do_you_know_the_Kerb_Drill.jpg">
 </div>
+<h4>Be kind to others.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_kind_to_others.jpg">
+</div>
 <p></p>
