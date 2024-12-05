@@ -3,6 +3,7 @@ title: SRSC Logo
 permalink: /about-us/SRSC-Logo/
 description: ""
 image: /images/SRSC 4C Process Logo.jpg
+variant: markdown
 ---
 ![](/images/SRSC%204C%20Process%20Logo.jpg)
 
@@ -14,3 +15,8 @@ image: /images/SRSC 4C Process Logo.jpg
 **The road veers and joins with the word ‘Road Safety’ to highlight the direction and the efforts of the Council.**
 
 **Red is used to remind us to be alert and Orange is an international colour code for safety.**
+
+### SRSC 15th Anniversary Logo (2009 to 2024)
+
+![](/images/SRSC_15th_Anniversary_Logo.jpg)
+
