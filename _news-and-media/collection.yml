@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Annual Reports.md
+      - Awards/2025.md
       - Awards/.keep
       - Awards/Singapore Road Safety Awards.md
       - Awards/2024.md
