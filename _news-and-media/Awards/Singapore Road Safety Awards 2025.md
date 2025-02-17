@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Awards
 variant: tiptap
 ---
-<h3>Invitation to Participate in the Singapore Road Safety Awards (SRSA) 2025</h3>
+<h4><strong>Invitation to Participate in the Singapore Road Safety Awards (SRSA) 2025</strong></h4>
 <p>The Singapore Road Safety Council (SRSC), in collaboration with the Traffic
 Police, Land Transport Authority (LTA), and Ministry of Manpower, is pleased
 to announce the Singapore Road Safety Awards (SRSA) 2025. This prestigious
 event recognizes and celebrates the efforts of companies and individuals
 in promoting road safety across Singapore.</p>
-<p><strong>Why Participate?</strong>
+<p></p>
+<p><strong><u>Why Participate?</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Showcase your commitment to road safety
 and gain industry recognition.</p>
@@ -19,31 +20,13 @@ and gain industry recognition.</p>
 driving practices.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contribute to a safer road environment
 for all.</p>
-<p><strong>Award Categories:</strong>
+<p></p>
+<p><strong><u>Award Categories:</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Company Awards:</p>
 <p>o&nbsp;&nbsp; For companies managing a fleet of at least 20 vehicles.</p>
 <p>o&nbsp;&nbsp; Categories include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Light Goods Vehicle Fleet (vehicles ≤ 3.5 metric tonnes)</p>
-</li>
-<li>
-<p>Heavy Goods Vehicle Fleet (vehicles &gt; 3.5 metric tonnes)</p>
-</li>
-<li>
-<p>Public Bus Fleet</p>
-</li>
-<li>
-<p>Non-Public Bus Fleet (12-seaters and above)</p>
-</li>
-<li>
-<p>Point-to-Point Transport Services Fleet</p>
-</li>
-<li>
-<p>Motorcycle Fleet</p>
-</li>
-</ul>
+<p></p>
 <p>o&nbsp;&nbsp; Companies must demonstrate effective safety systems, training,
 and a commitment to accident-free operations during the assessment period
 (1 Jan 2024 to 31 Dec 2024).</p>
@@ -52,10 +35,10 @@ and a commitment to accident-free operations during the assessment period
 records.</p>
 <p>o&nbsp;&nbsp; Nominated drivers/riders must have been employed with the
 company for at least two years and maintained a clean record, with no accidents
-or violations, during the assessment period.</p>
+or violations, during the assessment period.&nbsp;</p>
 <p>o&nbsp;&nbsp; Up to 3 nominations per category (5 for public bus and point-to-point
 transport companies).</p>
-<hr>
+<p></p>
 <p><strong>Eligibility:</strong>
 </p>
 <p>To qualify for the Company Awards and to nominate safe drivers, applying
@@ -82,7 +65,7 @@ or hired.</p>
 </li>
 </ul>
 <p>Participating companies will be assessed on the following:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Management’s Commitment to Road Safety.</p>
 </li>
@@ -99,11 +82,12 @@ or hired.</p>
 <p>Traffic Police / Land Transport Authority Violations.</p>
 </li>
 </ol>
-<hr>
 <p><strong>How to Apply:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Complete the online application forms:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://forms.gle/LvBDYiEKfTLsqNy7A" rel="noopener noreferrer nofollow" target="_blank">Company Awards Application Form</a>
 </p>
@@ -116,12 +100,13 @@ or hired.</p>
 <p><a href="https://forms.gle/H8z1VfPgSbMRbFmp9" rel="noopener noreferrer nofollow" target="_blank">Safe Driver Awards Application Form (Public Bus &amp; Point-to-Point Transportation Services)</a>
 </p>
 </li>
+</ul>
+</li>
 <li>
-<p>Upload or submit supporting documents via email to Ms. Irene Goh at irenegoh@srsc.org.sg
-by 18 April 2025 (Friday), 5 PM.</p>
+<p>Upload or submit supporting documents via email to Ms. Irene Goh at
+<a rel="noopener noreferrer nofollow" target="_blank">irenegoh@srsc.org.sg</a>by 18 April 2025 (Friday), 5 PM.</p>
 </li>
 </ul>
-<hr>
 <p><strong>Key Dates:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -135,11 +120,12 @@ by 18 April 2025 (Friday), 5 PM.</p>
 <p>Results Announcement: September 2025</p>
 </li>
 </ul>
-<hr>
 <p><strong>Contact Information:</strong>
 </p>
 <p>For inquiries, please contact:</p>
-<p>o&nbsp;&nbsp; Ms. Irene Goh</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms. Irene Goh</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Direct Line: 6547 6596</p>
@@ -148,10 +134,13 @@ by 18 April 2025 (Friday), 5 PM.</p>
 <p>Mobile: 8822 9398</p>
 </li>
 <li>
-<p>Email: SRSA@srsc.org.sg</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">SRSA@srsc.org.sg</a>
+</p>
 </li>
 </ul>
-<p>Join us in recognising excellence in road safety and contribute to a safer
-Singapore. We look forward to your participation!</p>
-<hr>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>Join us in recognising excellence in road safety
+and contribute to a safer Singapore. We look forward to your participation!</p>
+<p></p>
 <p></p>
