@@ -103,8 +103,8 @@ or hired.</p>
 </ul>
 </li>
 <li>
-<p>Upload or submit supporting documents via email to Ms. Irene Goh at
-<a rel="noopener noreferrer nofollow" target="_blank">irenegoh@srsc.org.sg</a>by 18 April 2025 (Friday), 5 PM.</p>
+<p>Upload or submit supporting documents via email to <a rel="noopener noreferrer nofollow" target="_blank">srsa@srsc.org.sg</a> by
+18 April 2025 (Friday), 5 PM</p>
 </li>
 </ul>
 <p><strong>Key Dates:</strong>
