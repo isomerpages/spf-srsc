@@ -5,102 +5,99 @@ description: ""
 third_nav_title: Awards
 variant: markdown
 ---
-# **INTRODUCTION**
+### Invitation to Participate in the Singapore Road Safety Awards (SRSA) 2025
+### 
 
-1\.   The Singapore Road Safety Council (SRSC) is an organisation set up to promote road safety awareness in Singapore.  SRSC drives various road safety campaigns and events like the annual Singapore Road Safety Month, Elderly Road Safety Campaign, Singapore Ride Safe and Anti-Drink Drive Campaign etc. to target different road users.   Together with key partners like Traffic Police (TP), Land Transport Authority (LTA) and Workplace Safety & Health Institute (WSHI), SRSC is here to constantly remind road users to always be safe on the road.
+The Singapore Road Safety Council (SRSC), in collaboration with the Traffic Police, Land Transport Authority (LTA), and Ministry of Manpower, is pleased to announce the Singapore Road Safety Awards (SRSA) 2025. This prestigious event recognizes and celebrates the efforts of companies and individuals in promoting road safety across Singapore.
 
-2\.   SRSA is a joint effort with Traffic Police, Land Transport Authority and Workplace Safety and Health Institute, to recognise exemplary companies and company drivers/riders for their effort to put in place systems and conscientiously work towards keeping our roads safe.  Awards will be given out to exemplary companies and company drivers/riders in the following categories:
+**Why Participate?**
 
-OBJECTIVE
+1.      Showcase your commitment to road safety and gain industry recognition.
 
-3\.    The SRSA recognizes both companies and vocational drivers for their efforts in keeping the roads safe.
+2.      Motivate your workforce to adopt safe driving practices.
 
-4\.    The Company Awards recognizes companies that promotes road safety actively through strong management commitment and good practices in managing their vehicle fleet (whether owned or hired) and actively promote safe driving behaviour amongst their vocational drivers/riders.
+3.      Contribute to a safer road environment for all.
 
-5\.  The Safe Driver/Rider Awards recognizes vocational drivers or motorcyclists who conscientiously maintain a good driving/riding record and display safe driving/riding behaviour.
+**Award Categories:**
 
-6\. SRSA 2024 will be given out for the following categories :
+1.      Company Awards:
 
-A.    Company Awards
+o   For companies managing a fleet of at least 20 vehicles.
 
-Companies operating and maintaining a minimum of **20** vehicles of the following fleet type may participate in this category.  Each company may make separate submission for each vehicle fleet type.  A company must have NO FATAL ACCIDENT the assessment period AND have in place a safety system/structure, to be considered for the awards.  The 5 vehicle fleet type under this category are :
+o   Categories include:
 
-a)     Light Goods Vehicle Fleet (vehicle not more than 3.5 metric tonne);
+* Light Goods Vehicle Fleet (vehicles ≤ 3.5 metric tonnes)
+* Heavy Goods Vehicle Fleet (vehicles > 3.5 metric tonnes)
+* Public Bus Fleet
+* Non-Public Bus Fleet (12-seaters and above)
+* Point-to-Point Transport Services Fleet
+* Motorcycle Fleet
 
-b)    Heavy Goods Vehicle Fleet (vehicle of 3.5 metric tonne and above);
+o   Companies must demonstrate effective safety systems, training, and a commitment to accident-free operations during the assessment period (1 Jan 2024 to 31 Dec 2024).
 
-c)     Public Bus Fleet of 12-seaters and above;
+2.      Safe Driver/Rider Awards:
 
-d)    Non-Public Bus Fleet of 12-seaters and above;
+o   Recognizes individual drivers/riders with exemplary safety records.
 
-e)     Point-to-Point Transport Services Fleet
+o   Nominated drivers/riders must have been employed with the company for at least two years and maintained a clean record, with no accidents or violations, during the assessment period. 
 
-f)     Motorcycle Fleet.
+o   Up to 3 nominations per category (5 for public bus and point-to-point transport companies).
 
-B.    Safe Driver/Rider Awards
+* * *
 
-(I) Applying company must operate at least 20 vehicle fleet and employ at least 20 drivers/riders for the following fleet type may nominate one of them to participate in this category.  Each company may nominate up to 3 drivers/riders for each category. 
+**Eligibility:**
 
-a.     Light Goods Vehicle Fleet (vehicle not more than 3.5 metric tonne);
+To qualify for the Company Awards and to nominate safe drivers, applying companies must:
 
-b.     Heavy Goods Vehicle Fleet (vehicle of 3.5 metric tonne and above);
+*   Operate 20 or more vehicles, regardless of whether the vehicles are owned or hired.
+*   Have no fatal accident record during the assessment year.
 
-c.     Non-Public Bus Fleet of 12-seaters and above;
+The following categories of vehicles are excluded:
 
-d.     Motorcycle Fleet;
+*   Road Tax exempted vehicles.
+*   Trailers (non-motorised).
+*   Motor Vehicles owned by Government and Statutory Boards.
 
-(II)  For Point-to-point transport services (Taxi companies, Grab, Gojek, Tada Mobility) may nominate up to 3 taxi drivers or drivers using their application platform. The drivers should be active and been in P2P transport service for 2 years or more. Companies should nominate drivers who are on the road for at least an average of 20 hours a week.  Nominated drivers should have no accident and violation record in the assessment period.
+Participating companies will be assessed on the following:
 
-            (III) Public Bus Companies may nominate up to 5 bus captains for the awards.
+1.  Management’s Commitment to Road Safety.
+2.  Operation and Control Management.
+3.  Drivers/Motorcyclists Training and Awareness.
+4.  Compliance to Regulatory requirements (eg installing speed limiter)
 
-7\.    The assessment period is from 1 Jan 2023 to 31 Dec 2023.  Participants are to submit the softcopy of the application in excel format to [SRSA@srsc.org.sg](mailto:SRSA@srsc.org.sg) and mail the signed printed copy, together with supporting documents to SRSC Secretariat, attention to Ms Irene Goh, by 3 Jun 2024 (Monday), 5pm.  Alternatively, the forms may be scanned and sent by email.  Supporting documents are essential to verify the information and will be used in favour of the submission.
+5.  Traffic Police / Land Transport Authority Violations.
 
-GENERAL REQUIREMENTS
+* * *
 
-8\.   To qualify for the Company awards and to nominate safe drivers, applying companies must operate **20** or more vehicles, regardless of whether the vehicles are owned or hired NO fatal accident record in the year assessed. The following categories of vehicles are excluded:
+**How to Apply:**
 
-• Road Tax exempted vehicles.
+Complete the online application forms:
 
-• Trailers (non-motorised).
+*   [Company Awards Application Form](https://forms.gle/LvBDYiEKfTLsqNy7A)
+*   [Safe Driver Awards Application Form](https://forms.gle/xi3STSgDB332sW5D7)
+*   [Safe Driver Awards Application Form (Public Bus & Point-to-Point Transportation Services)](https://forms.gle/H8z1VfPgSbMRbFmp9)
 
-• Motor Vehicles owned by Government and Statutory Boards.
+*   Upload or submit supporting documents via email to Ms. Irene Goh at irenegoh@srsc.org.sg by 18 April 2025 (Friday), 5 PM.
 
-9\.     Participating companies will be assessed among others, on the following:
+* * *
 
-i.    Management’s Commitment to Road Safety
+**Key Dates:**
 
-ii.   Operation and Control Management
+*   Assessment Period: 1 January 2024 to 31 December 2024.
+*   Application Deadline: 18 April 2025.
+*   Results Announcement: September 2025.
+* * *
 
-iii.  Drivers/Motorcyclists Training and Awareness
+**Contact Information:**
 
-iv.  Traffic Police / Land Transport Authority Violations
+For inquiries, please contact:
 
-GENERAL REQUIREMENTS FOR SAFE DRIVER CATEGORY
+o   Ms. Irene Goh
 
-10\.    Companies are invited to submit their nominations of vocational drivers and motorcyclists (with at least 2 years of service with the company) who demonstrated commendable efforts on road safety.
+* Direct Line: 6547 6596
+* Mobile: 8822 9398
+* Email: SRSA@srsc.org.sg
 
-11\.    All companies who employ such vocational drivers/motorcyclists are eligible to submit up to **THREE** (3) nomination, **FIVE** (5) for Public Bus Vehicle Fleet for each category of awards even when they do not own the vehicles themselves e.g. dispatch riders who ride their own motorcycle.  The nominate driver/rider should not have, in the past, received similar award.
+Join us in recognising excellence in road safety and contribute to a safer Singapore. We look forward to your participation!
 
-12\.    Nominated drivers/motorcyclist will be assessed among others, on the following:
-
-• Company recommendation with justification
-
-• Driving/Riding record with the authorities.  Provide a copy of status of driver improvement points at : [https://eservices.police.gov.sg/content/policehubhome/homepage/enquiry/status-of-driver-improvement-points.html](https://eservices.police.gov.sg/content/policehubhome/homepage/enquiry/status-of-driver-improvement-points.html)
-
-·       Commendations received (if any)
-
-13\.   Applicant for Company Awards are required to submit a list of vehicle registration numbers of the fleet they are operating, regardless if they owned or hired the vehicles.  The vehicles will be screen for traffic offence with the traffic police for determining of their traffic offence record for the qualifying period.  Companies also need to submit supporting documents of training manual, safety manual, maintenance and training schedule as proof of work done.
-
-14\.     Company applying for Safe Driver Awards are required to submit full NRIC of nominated safe driver after seeking the driver’s approval.  SRSC will screen the driver for his driving records in assessing the winners.  Applicant may not nominate himself for the safe driver award.
-
-15\.     By submitting the application, the Company agrees to allow SRSC to screen their vehicles and drivers (with drivers’ approval), with the Traffic Police for their past traffic incident records.
-
-16\.   The decisions of the judges on the results shall be final.  Results will be published on SRSC website by November 2024 and only winners will be notified by email.
-
-17\.       Please send a request for the application form to SRSA@srsc.org.sg
-
-CONTACT
-
-18\.   For more information on the award details, please contact Ms Irene Goh (DID): 6547 6596, (Cellphone): 8822 9398 or Email: [SRSA@srsc.org.sg](mailto:SRSA@srsc.org.sg).
-
-19\.    We look forward to your participation in promoting road safety in Singapore.
+* * *
