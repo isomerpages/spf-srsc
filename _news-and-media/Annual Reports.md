@@ -4,7 +4,7 @@ permalink: /news-and-media/Annual-Reports/
 description: ""
 variant: markdown
 ---
-<a href="https://drive.google.com/file/d/1OqFfhGonYAf0d70Bb_Dcid4yB0UbPRdP/view?usp=sharing">![](/images/2024%20annual%20report.jpg)
+<a href="https://drive.google.com/file/d/1OqFfhGonYAf0d70Bb_Dcid4yB0UbPRdP/view?usp=sharing">![](/images/2024_annual_report.jpg)
 
 </a><a href="https://drive.google.com/file/d/1_N7K6Vtykvx8ffmkpS__rGadc2pdDmq7/view?usp=sharing">![](/images/2023%20annual%20report.jpg)
 	
