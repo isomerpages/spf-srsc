@@ -14,5 +14,4 @@ variant: markdown
 	
 </a><a href="https://drive.google.com/file/d/1roBlWgsmuQgh0GKkZDY4quHWYxvtE963/view?usp=sharing">![](/images/2020.jpg)
 
-</a><a href="https://drive.google.com/file/d/1eide1EiSAT2\_PwMTyDrfe5nJ0\_PVtkdJ/view?usp=sharing">![](/images/2019.jpg)
-	</a>
+</a><a href="https://drive.google.com/file/d/1eide1EiSAT2\_PwMTyDrfe5nJ0\_PVtkdJ/view?usp=sharing">![](/images/2019.jpg)</a>
