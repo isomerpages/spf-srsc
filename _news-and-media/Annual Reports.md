@@ -4,7 +4,11 @@ permalink: /news-and-media/Annual-Reports/
 description: ""
 variant: markdown
 ---
-<a href="https://drive.google.com/file/d/1_N7K6Vtykvx8ffmkpS__rGadc2pdDmq7/view?usp=sharing">![](/images/2023%20annual%20report.jpg)
+<a href="https://drive.google.com/file/d/1OqFfhGonYAf0d70Bb_Dcid4yB0UbPRdP/view?usp=sharing">![](/images/2024_annual_report.jpg)
+
+</a><a href="https://drive.google.com/file/d/1_N7K6Vtykvx8ffmkpS__rGadc2pdDmq7/view?usp=sharing">![](/images/2023%20annual%20report.jpg)
+	
+	https://drive.google.com/file/d/1OqFfhGonYAf0d70Bb_Dcid4yB0UbPRdP/view?usp=drive_link
 
 </a><a href="https://drive.google.com/file/d/18BrdI3j9kqpl-_YUj-HRuK-7UBFXQxcm/view?usp=sharing"><img src="/images/2022  .jpg" title="SRSC 2022 Annual Report" alt="SRSC 2022 Annual Report"></a>
 
