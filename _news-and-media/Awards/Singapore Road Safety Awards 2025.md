@@ -9,6 +9,9 @@ variant: tiptap
 <h4><strong>Excellence Awards Winner:</strong></h4>
 <p><strong>A ) For Company Awards</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SRSA_2025_Company_Awards___Excellence.jpg">
+</div>
 <p>
 <br>
 </p>
