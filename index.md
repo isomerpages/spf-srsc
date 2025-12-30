@@ -10,7 +10,7 @@ notification: Government officials will NEVER ask you to transfer money or
   visit ScamShield Website.
 sections:
   - hero:
-      background: /images/SRSC_2024_Campaigns___Events.gif
+      background: /images/SRSC_2025_Gifs.gif
       key_highlights:
         - title: About SRSC
           description: Find out about SRSC today!
