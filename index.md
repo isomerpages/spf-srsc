@@ -20,7 +20,7 @@ sections:
           url: /news-and-media/campaigns-and-events/2025/
         - title: Road Safety Videos
           description: Watch our videos here!
-          url: /news-and-media/Road-Safety-Videos/2025/
+          url: /news-and-m/news-and-media/road-safety-videos/2025/
         - title: "'Friends of SRSC' Volunteer"
           description: Join us as a Volunteer today!
           url: /volunteer/Our-Volunteers/
