@@ -2,6 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 description: ""
+variant: markdown
 ---
 #### **SINGAPORE ROAD SAFETY COUNCIL PRIVACY POLICY**
 
@@ -118,7 +119,7 @@ description: ""
 
 24.  Contact Data Protection Officer. If you wish to withdraw any consent you have given us at any time, or if you wish to correct or have access to your personal data held by us, or if you do not accept any amendment to this Policy, please contact our Data Protection Officer:
 
-Name : **Poh Lay Hua** Telephone : **6547 6597** Email : **pohlayhua@srsc.org.sg**
+Name : **Joanne Chan** Telephone : **6547 6597** Email : **joannechan@srsc.org.sg**
 
 25.  **Fee for access.** We may charge you a fee for responding to your request for access to your personal data held by us, or for information about the ways in which we have (or may have) used your personal data in the one-year period preceding your request. If a fee is to be charged, we will inform you of the amount beforehand and respond to your request after payment is received. We will endeavour to respond to your request within thirty (30) days, and if that is not possible, we will inform you of the time by which we will respond to you.
 
