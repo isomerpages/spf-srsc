@@ -4,6 +4,8 @@ permalink: /news-and-media/Annual-Reports/
 description: ""
 variant: markdown
 ---
+<a href="https://drive.google.com/file/d/1ONFyKkh9pLNn3eb23SJ_NnRsc3nlVv90/view?usp=drive_link">![](/images/SRSC_Annual_Report_2025.jpg)</a>
+
 <a href="https://drive.google.com/file/d/1Uss4yDGqdZ7z4EucPiJhCRBO68OncWWq/view?usp=drive_link">![](/images/2024_annual_report.jpg)</a>
 	
 <a href="https://drive.google.com/file/d/1LgPlotin4eZ5h-Gsd-bXUUmM79XjuNen/view?usp=sharing">![](/images/2023%20annual%20report.jpg)</a>
