@@ -4,5 +4,5 @@ permalink: /about-us/Council-Members/
 description: ""
 variant: markdown
 ---
-![](/images/SRSC_Org_Chart_v16_1.jpg)
-![](/images/SRSC_Org_Chart_v15_2.jpg)
+![](/images/SRSC_Org_Chart_v17_1.jpg)
+![](/images/SRSC_Org_Chart_v17_2.jpg)
