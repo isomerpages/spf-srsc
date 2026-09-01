@@ -5,4 +5,4 @@ description: ""
 variant: markdown
 ---
 ![](/images/SRSC_Org_Chart_v19_1.jpg)
-![](/images/SRSC_Org_Chart_v19_2_v4.jpg)
+![](/images/SRSC_Org_Chart_v19_2_v5.jpg)
