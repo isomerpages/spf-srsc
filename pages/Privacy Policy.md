@@ -16,7 +16,7 @@ variant: markdown
 #### AMENDMENT TO THIS POLICY
 ------------------------
 
-4.  We may amend this Policy from time to time. The updated Policy will supersede earlier versions and will apply to personal data provided to us previously. The updated Policy will be made available upon request from us and on our website at http://srsc.org.sg. If you do not accept any amendment to the Policy, please contact our Data Protection Officer (see paragraph 26 below).
+4.  We may amend this Policy from time to time. The updated Policy will supersede earlier versions and will apply to personal data provided to us previously. The updated Policy will be made available upon request from us and on our website at http://srsc.org.sg. If you do not accept any amendment to the Policy, please contact our Data Protection Officer.
 
 #### PERSONAL DATA
 -------------
